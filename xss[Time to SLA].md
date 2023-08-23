@@ -21,7 +21,6 @@ Download address: the page
 Enter the plugin name Time to SLA download.
 
 ![image-xss1.1[Time to SLA]](images/xss1.1[Time].png)
-![image-xss1.1[Timetracker]](images/xss1.1[Timetracker].png)
 
 Or download in the app store at 
 https://marketplace.atlassian.com/apps/1211843/time-to-sla?tab=overview&hosting=datacenter
